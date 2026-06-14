@@ -5,7 +5,7 @@
 
 ---
 
-## Motivation (Simple Words)
+## Motivation 
 
 Scientists have many genomes (100+ humans, 1000+ bacteria). They need to ask: "Does this small DNA piece (k-mer) exist in all genomes?" Current tools are slow, use too much memory, or can't add new genomes. LexiPair-BioRange solves this.
 
@@ -100,7 +100,7 @@ No existing tool (through 2026) provides:
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/LexiPair-BioRange.git
+git clone https://github.com/Mohona77/LexiPair-BioRange.git
 cd LexiPair-BioRange
 mkdir build && cd build
 cmake .. -DCMAKE_BUILD_TYPE=Release
