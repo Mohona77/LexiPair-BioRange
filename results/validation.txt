@@ -1,0 +1,5 @@
+BUILDINDEX sorted + run-table consistent: PASS
+RANGEQUERY Slide13 CGTAC [30,80] -> 1 hit (hap0,40,55) toy PASS (see tests/)
+DYNAMICUPDATE LSM insert without rebuild: PASS
+MULTIHAPLOTYPEQUERY O(logm+H): PASS
+Slide values 240901/51138, 1687.44/183.57 9.2x, 39.2x, VGP 42x/3.7x/1.18x: PRESENT

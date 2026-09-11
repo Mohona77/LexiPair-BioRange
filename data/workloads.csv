@@ -1,0 +1,7 @@
+ID,Workload,Description,What we do,Metrics
+1,Static Query,"500 random k-mers, 20 iterations",Run range queries for random k-mers and collect results,"Latency, memory usage"
+2,Dynamic Update,"10 haplotype insertions, rebuild vs LSM",Insert new haplotypes and compare with rebuild baseline,"Time per update, speedup over rebuild"
+3,Multi-Species Comparison,5 datasets vs d-PBWT & multi-level,Compare LexiPair-BioRange with d-PBWT and a multi-level index,"Time per query, speedup"
+4,Fractional Cascading,Real pangenome (H=2 to 12),Perform queries across H haplotype levels using fractional cascading,"Number of operations, total query time"
+5,Scalability,Haplotype sweep (2 to 12),Vary number of haplotypes from 2 to 12 and measure performance,"Memory usage, query latency"
+6,Ablation Study,"3 variants: no run-table, run table only, full",Evaluate three system variants to isolate the contribution of each component,"Latency per query, speedup"

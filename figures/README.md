@@ -1,0 +1,1 @@
+# figures — generated PNGs: fig_contrib1_static, fig_contrib2_dynamic (5 panels), fig_contrib3_fc (5 panels log-scale), fig_vgp + fig_vgp_scaling, fig_ablation, fig_scalability. All values match slides.

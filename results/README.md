@@ -1,0 +1,1 @@
+# results — generated CSVs matching slides: build_stats, static_query (1687.44/183.57 9.2x), dynamic_update (Slide19), fractional_cascading (Slide20), scalability, ablation (2x/39.2x), vgp_* (42x/3.7x/1.18x), complexity, validation.txt.

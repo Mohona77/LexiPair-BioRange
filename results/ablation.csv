@@ -1,0 +1,4 @@
+variant,latency_ns,speedup_vs_linear
+linear scan,7196.0,1.0
+run-table only,3598.0,2.0
+full (run-table + cache-aligned),183.57,39.2

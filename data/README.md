@@ -1,0 +1,1 @@
+# data — generated: reference_TAIR10_chr1_20k.fa, primary_haplotypes.fasta (12 haps), dataset_summary.csv (240901/51138), multispecies_metadata.csv (5 species), workloads.csv (6 workloads). Regenerate: python tools/generate_datasets.py.

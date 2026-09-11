@@ -1,0 +1,1 @@
+# apps — 7 CLIs: build_index (Steps1-5), static_query (500x20), dynamic_update (Slide19), fc_benchmark (Slide20), scalability (H2-12), ablation (2x/39.2x), vgp_compare (42x/3.7x/1.18x), validate (Slide13 CGTAC example). Build: g++ -O3 -std=c++17 -Iinclude.

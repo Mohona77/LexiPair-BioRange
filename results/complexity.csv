@@ -1,0 +1,6 @@
+category,naive,lexipair_best,lexipair_worst,lexipair_overall
+Memory Footprint,O(N*100+) B,O(N*S) B,O(N*S+U*R) B,O(N*S+U*R) B
+Cache Line Traffic,O(k) misses,O(1) lines,ceil(k/(C/S))+1,ceil(k/(C/S))+1
+Static Range Query,O(m) scan,O(1),O(logU+logm+k),O(logU+logm+k)
+Dynamic Ingestion,O(N) rebuild,O(dN),O(dN log dN),O(dN log dN)
+Multi-Haplotype Search,O(H log m),O(1+H),O(logm+H),O(logm+H)

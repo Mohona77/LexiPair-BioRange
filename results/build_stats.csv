@@ -1,0 +1,7 @@
+metric,value
+records,240901
+distinct,52854
+build_ms,499.4
+struct_bytes,4488664
+expected_records,240901
+expected_distinct,51138

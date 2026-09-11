@@ -1,0 +1,9 @@
+Parameter,Value
+Reference Source,TAIR10 Chr-1 Subsequence
+Sequence Length,20000 bp
+Haplotype Count,12
+k-mer Length,16
+Total Occurrences,240901
+Distinct k-mers,51138
+Actual Distinct Observed,52854
+Actual Total Observed,240901

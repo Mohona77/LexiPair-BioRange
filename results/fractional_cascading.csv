@@ -1,0 +1,33 @@
+species,H,multilevel_ms,fc_ms
+"E. coli (4.6 Mbp, 64 haplotypes)",2,8,3
+"E. coli (4.6 Mbp, 64 haplotypes)",4,14,4
+"E. coli (4.6 Mbp, 64 haplotypes)",6,22,6
+"E. coli (4.6 Mbp, 64 haplotypes)",8,32,8
+"E. coli (4.6 Mbp, 64 haplotypes)",16,54,12
+"E. coli (4.6 Mbp, 64 haplotypes)",32,105,21
+"E. coli (4.6 Mbp, 64 haplotypes)",64,214,19
+"S. cerevisiae (12.1 Mbp, 32 haplotypes)",2,12.0,1.1
+"S. cerevisiae (12.1 Mbp, 32 haplotypes)",4,20.0,1.5
+"S. cerevisiae (12.1 Mbp, 32 haplotypes)",6,32.0,2.1
+"S. cerevisiae (12.1 Mbp, 32 haplotypes)",8,41.0,3.0
+"S. cerevisiae (12.1 Mbp, 32 haplotypes)",16,88.0,4.6
+"S. cerevisiae (12.1 Mbp, 32 haplotypes)",32,160.0,12.7
+"O. sativa (373 Mbp, 16 haplotypes)",2,24.0,0.08
+"O. sativa (373 Mbp, 16 haplotypes)",4,55.0,0.14
+"O. sativa (373 Mbp, 16 haplotypes)",6,81.0,0.22
+"O. sativa (373 Mbp, 16 haplotypes)",8,125.0,0.32
+"O. sativa (373 Mbp, 16 haplotypes)",16,250.0,0.5
+"D. melanogaster (143.7 Mbp, 24 haplotypes)",2,30.0,0.21
+"D. melanogaster (143.7 Mbp, 24 haplotypes)",4,55.0,0.39
+"D. melanogaster (143.7 Mbp, 24 haplotypes)",6,61.0,0.6
+"D. melanogaster (143.7 Mbp, 24 haplotypes)",8,125.0,0.88
+"D. melanogaster (143.7 Mbp, 24 haplotypes)",16,238.0,1.61
+"D. melanogaster (143.7 Mbp, 24 haplotypes)",24,320.0,2.24
+"H. sapiens Chr 21 (46.7 Mbp, 254 haplotypes)",2,10.0,0.9
+"H. sapiens Chr 21 (46.7 Mbp, 254 haplotypes)",4,18.0,1.6
+"H. sapiens Chr 21 (46.7 Mbp, 254 haplotypes)",8,30.0,2.4
+"H. sapiens Chr 21 (46.7 Mbp, 254 haplotypes)",16,42.0,3.6
+"H. sapiens Chr 21 (46.7 Mbp, 254 haplotypes)",32,75.0,5.5
+"H. sapiens Chr 21 (46.7 Mbp, 254 haplotypes)",64,140.0,8.2
+"H. sapiens Chr 21 (46.7 Mbp, 254 haplotypes)",128,260.0,11.8
+"H. sapiens Chr 21 (46.7 Mbp, 254 haplotypes)",254,4900.0,78.3

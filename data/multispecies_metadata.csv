@@ -1,0 +1,6 @@
+Taxonomy,Species,Size,H,GC%,Source
+Bacteria,E. coli,4.6 Mbp,64,50.8,NCBI
+Fungi,S. cerevisiae,12.1 Mbp,32,38.5,SGD
+Plant,O. sativa,373 Mbp,16,43.6,Ensembl
+Invertebrate,D. melanogaster,143.7 Mbp,24,42.0,FlyBase
+Mammalian,H. sapiens Chr 21,46.7 Mbp,254,40.9,HPRC
